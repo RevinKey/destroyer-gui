@@ -1,3 +1,0 @@
-# Nmap 6.47 scan initiated Mon Jun 15 11:09:59 2015 as: nmap -sn -T3 -oG some file 127.0.0.1
-Host: 127.0.0.1 (localhost)	Status: Up
-# Nmap done at Mon Jun 15 11:09:59 2015 -- 1 IP address (1 host up) scanned in 0.00 seconds
